@@ -14,8 +14,8 @@ print("Loading...")
 
 sleeptime = 1
 
-public_key = '3c4f364216f9fd099267843cf44577ad'
-private_key = '6c7331cd667d63a627fa70e912bca041'
+public_key = ''
+private_key = ''
 api_url = 'https://tradeogre.com/api/v1'
 api_url_sell = '/order/sell'
 api_url_buy = '/order/buy'

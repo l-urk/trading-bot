@@ -8,8 +8,8 @@ import requests
 from datetime import datetime
 from tradeogre import TradeOgre
 # Set User Data
-public_key = '3c4f364216f9fd099267843cf44577ad'
-private_key = '6c7331cd667d63a627fa70e912bca041'
+public_key = ''
+private_key = ''
 market_name = 'BTC-USDT'
 ask_diff = 0.33333333
 diff_value_percentage_pos = 0.50
